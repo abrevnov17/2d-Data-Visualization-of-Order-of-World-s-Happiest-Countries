@@ -1,0 +1,1 @@
+This is a data visualization that uses the size and maximum height of balls moving up and down to represent the happiness levels in different countries read in from a text file. You can hover over the dots to see which country it represents. Also, you can type in a number and it will tell you which country corresponds rankings-wise with that number.
